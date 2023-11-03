@@ -3,6 +3,8 @@
 <p align="left">
 </p>
 
+![alt text](readme.gif)
+
 👋 A Web Development Enthusiast<br>👀 I’m interested in Full Stack Web Development ...<br>🌱 I’m currently learning Backend Using django...<br>💞️ I’m looking to collaborate on Open Sourec Projects , Developments , Frontend ,Backend...<br>⚡ Fun Fact: It took less code to send a man to space than to run a smartphone. <br>📫 How to reach me ...<br>📩 Email:-- sarkarsubham624@gmail.com
 
 
