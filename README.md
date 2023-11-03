@@ -2,7 +2,7 @@
 <p align="left">
 </p>
 
-               ![my](https://github.com/hghyhghy/hghyhghy/assets/140393712/80754803-a396-469f-977e-5fd2e91f1766)
+   ![my](https://github.com/hghyhghy/hghyhghy/assets/140393712/80754803-a396-469f-977e-5fd2e91f1766)
 
 <h3 align="left">Connect with me:</h3>
 
