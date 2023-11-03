@@ -1,4 +1,4 @@
-<h1 align="center" style="color:powerblue>Hi Folks 👋, I'm Subham Sarkar @hghyhghy</h1>
+<h1 align="center" style="color:powerblue">Hi Folks 👋, I'm Subham Sarkar @hghyhghy</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
