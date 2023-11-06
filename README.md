@@ -9,7 +9,7 @@
 👋 A Web Development Enthusiast<br>👀 I’m interested in Full Stack Web Development ...<br>🌱 I’m currently learning Backend Using django...<br>💞️ I’m looking to collaborate on Open Sourec Projects , Developments , Frontend ,Backend...<br> ⏺️A Django Developer <br> ⚡ Fun Fact: It took less code to send a man to space than to run a smartphone. <br>📫 How to reach me ...<br>📩 Email:-- sarkarsubham624@gmail.com
 
 
-  ##  🌐 Socials: 
+  ##  🌐 Socials:  
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1161509913344884778/1161509913785282680) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://m.facebook.com/profile.php/?id=100073733028066) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/shortsubham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subham-sarkar-a51990285/details/skills/) 
 
 
