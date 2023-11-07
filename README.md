@@ -1,6 +1,6 @@
 <h1 align="center" style="color:powerblue">Hi Folks 👋, I'm Subham Sarkar @hghyhghy</h1>
 <p align="left">      
-</p>    
+</p>     
     
 ![readme](https://github.com/hghyhghy/hghyhghy/assets/140393712/5ae89c8f-f4a9-4973-a069-8601e25f1f33)
    
