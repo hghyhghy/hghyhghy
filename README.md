@@ -4,7 +4,7 @@
 <p align="left">        
 </p>          
          
-![readme](https://github.com/hghyhghy/hghyhghy/assets/140393712/5ae89c8f-f4a9-4973-a069-8601e25f1f33)
+![readme](https://github.com/hghyhghy/hghyhghy/assets/140393712/5ae89c8f-f4a9-4973-a069-8601e25f1f33) 
    
 <h2 align="left">Connect with me: </h2>                                            
 
