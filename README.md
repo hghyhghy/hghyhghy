@@ -16,7 +16,7 @@
    
 <h2 align="left">Connect with me: </h2>                                            
 
-👋 A Web Development Enthusiast<br>👀 I’m interested in Full Stack Web Development ...<br>🌱 I’m currently learning Backend Using Next.js...<br>💞️ I’m looking to collaborate on Open Sourec Projects , Developments , Frontend ,Backend...<br> ⏺️A Javascript Developer <br> ⚡ Fun Fact: It took less code to send a man to space than to run a smartphone. <br>📫 How to reach me ...<br>📩 Email:-- sarkarsubham624@gmail.com
+👋 A Web Development Enthusiast<br>👀 I’m interested in Full Stack Web Development ...<br>🌱 I’m currently learning Backend Using Next.js...<br>💞️ I’m looking to collaborate on Open Sourec Projects , Developments , Frontend ,Backend...<br> ⏺️A Javascript Developer <br> ⚡ Fun Fact: It took less code to send a man to space than to run a smartphone. <br>📫 How to reach me ...<br>📩 Email:-- sarkarsubham624@gmail.com <br>
 ⏺️ My Resume:https://app.enhancv.com/share/cd1491aa/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
 
 
