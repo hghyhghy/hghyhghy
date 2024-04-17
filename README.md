@@ -38,7 +38,6 @@
 [![](https://visitcount.itsvg.in/api?id=hghyhghy&icon=5&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee] [![PayPal]
-
+[BuyMeACoffee](https://buymeacoffee.com/subham sarkar/shortsubham) [PayPal](https://paypal.me/subham sarkar/shortsubham)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
