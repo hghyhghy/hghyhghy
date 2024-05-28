@@ -15,7 +15,7 @@
 ![readme](https://github.com/hghyhghy/hghyhghy/assets/140393712/5ae89c8f-f4a9-4973-a069-8601e25f1f33) 
    
 # 💫 About Me:
-Connect with me:<h2 align="center" style="color:powerblue"><br>👋 A Web Development Enthusiast<br>👀 I’m interested in Full Stack Web Development ...<br>🌱 I’m currently learning Backend Using Next.js...<br>💞️ I’m looking to collaborate on Open Sourec Projects , Developments , Frontend ,Backend...<br>⏺️A Javascript Developer<br>⚡ Fun Fact: It took less code to send a man to space than to run a smartphone.<br>📫 How to reach me ...<br>📩 Email:-- sarkarsubham624@gmail.com</h2>
+Connect with me:<h2 align="left" style="color:powerblue"><br>👋 A Web Development Enthusiast<br>👀 I’m interested in Full Stack Web Development ...<br>🌱 I’m currently learning Backend Using Next.js...<br>💞️ I’m looking to collaborate on Open Sourec Projects , Developments , Frontend ,Backend...<br>⏺️A Javascript Developer<br>⚡ Fun Fact: It took less code to send a man to space than to run a smartphone.<br>📫 How to reach me ...<br>📩 Email:-- sarkarsubham624@gmail.com</h2>
 
 
 # 💻 Tech Stack:
